@@ -154,7 +154,7 @@ Include disclaimers (e.g., sections 7,8 on Zillow Terms of Use)
 ## Contributions
 
 **Mikhail Lenko:** established process to retrieve desired information from Google Vision AI and Zillow Get Deep Search APIs using Python, wrote ReadMe.
-**Ryan Leyba:** prototyped function for extracting geolocation data from smart phone image files using Python, created presentation deck.
+**Ryan Leyba:** prototyped function for extracting geolocation exifdata from smart phone image files using Python, created presentation deck.
 **Kai Zhao:** established process to retrieve desired information from Google Maps APIs, integrated backend code using Python Flask, built front-end user interface with HTML/CSS.
 
 And special thanks to **Alison Norris** for front-end consultation and **James Huang** for front- and backend consultation.
